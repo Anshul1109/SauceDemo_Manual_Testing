@@ -19,17 +19,7 @@ VS Code
 
 ![TC002](Screenshots/Login_Module/TC002_Invalid_Password.png)
 
-### TC003 - Invalid Username
-
-![TC003](Screenshots/Login_Module/TC003_Invalid_Username.png)
-
-### TC004 - Blank Username
-
-![TC004](Screenshots/Login_Module/TC004_Blank_Username.png)
-
-### TC005 - Blank Password
-
-![TC005](Screenshots/Login_Module/TC005_Blank_Password.png)
+## Product Module
 
 ### TC011 - Product List
 
@@ -39,14 +29,12 @@ VS Code
 
 ![TC015](Screenshots/Product_Module/TC015_Add_To_Cart.png)
 
-### TC017 - Cart Count
+## Bug Report
 
-![TC017](Screenshots/Product_Module/TC017_Cart_Badge_Count.png)
+### BUG001 - Incorrect Product Image
 
-### TC018 - Sort Items A_Z
+![BUG001](Screenshots/Bug_Screenshots/Bug001_Incorrect_Product_Image.png)
 
-![TC018](Screenshots/Product_Module/TC018_Sort_AZ.png)
+### BUG004 - UI Misalignment
 
-### TC020 - Cart
-
-![TC020](Screenshots/Product_Module/TC020_Cart_Page.png)
+![BUG004](Screenshots/Bug_Screenshots/BUG004_UI_Misalignment.png)
